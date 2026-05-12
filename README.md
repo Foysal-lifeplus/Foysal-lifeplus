@@ -27,6 +27,7 @@
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 👨‍💻 Mohammad Foysal
+
 Frontend Developer passionate about creating **modern**, **fast**, and **beautiful** web applications.
 
 - 🚀 Building scalable apps using **React & Next.js**
@@ -87,11 +88,7 @@ Frontend Developer passionate about creating **modern**, **fast**, and **beautif
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Foysal-lifeplus/Foysal-lifeplus/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+<div align="center"> <img src="https://raw.githubusercontent.com/Foysal-lifeplus/Foysal-lifeplus/output/github-contribution-grid-snake-dark.svg" /> </div>
 
 ---
 
@@ -104,9 +101,9 @@ const foysal = {
   backend: ["Node.js", "Express.js"],
   database: ["MongoDB", "PostgreSQL"],
   currentlyLearning: ["System Design", "Performance Optimization"],
-  funFact: "Clean UI + Smooth UX = ❤️"
+  funFact: "Clean UI + Smooth UX = ❤️",
 };
-````
+```
 
 ---
 
